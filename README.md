@@ -1,9 +1,8 @@
 ## Hey, there! Nice having you here! 👋
 
-<div align="center">
-  <a href="https://github.com/nialefs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nialefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<div style="display: inline_block"><br>
+- Materials Engineer
+- Currently studying Data Science & Machine Learning at Tera
+
   <img align="center" alt="Aline-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Aline-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />    
   <img align="center" alt="Aline-Jupyter" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
