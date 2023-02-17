@@ -2,7 +2,7 @@
 
 - Materials Engineer
 - Data Scientist at ioasys
-- Studying Data Science & Machine Learning at Tera
+- Former student of Data Science & Machine Learning at Tera
 
   <img align="center" alt="Aline-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Aline-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />    
