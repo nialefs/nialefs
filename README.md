@@ -1,7 +1,7 @@
 ## Hey, there! Nice having you here! 👋
 
 - Materials Engineer
-- Data Engineer
+- AI Engineer
 - Former student of Data Science & Machine Learning at Tera
 
   <img align="center" alt="Aline-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
